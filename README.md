@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiranoruganti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...DEVOPS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning ...pythonn,java
+- 💞️ I’m looking to collaborate with IT companies
 - 📫 How to reach me ... kiranoruganti5472@gmail.com
 
 <!---
