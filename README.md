@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiranoruganti
-- 👀 I’m interested in web development and machine learning
+- 👀 I’m interested in web development,machine learning,networking and cloud
 - 🌱 I’m currently learning ...python,java
 - 💞️ I’m looking to collaborate with IT companies
 - 📫 How to reach me ... kiranoruganti54726@gmail.com
