@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiranoruganti
-- 👀 I’m interested in web development,machine learning,networking and cloud
-- 🌱 I’m currently learning ...python,java
+- 👀 I’m interested in web development,networking and cloud
+- 🌱 I’m currently learning ...AWS.
 - 💞️ I’m looking to collaborate with IT companies
 - 📫 How to reach me ... kiranoruganti5472@gmail.com
 
